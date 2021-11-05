@@ -12,7 +12,7 @@ You can read more about the [application design](./internal-docs/design.md).
 
 The [deploy folder](./deploy/) contains scripts and instructions to provision the application onto your favourite platform. 
 
-Please let us know if there is a platform that you would like to see supported.
+Please let us know if there is a platform that you would like to see supported. 
 
 ## Bugs, Feature Requests and Contributing
 
